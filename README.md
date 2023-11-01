@@ -1,64 +1,41 @@
-# ai-case-study
-A brief case study of an AI company. Exercise 1 for AI bootcamp.
+# Figure.ai
 
-# Case Study of Figure.ai
+### A Case Study 
+### By Derek Rikke
 
-## Overview and Origin
+In the United States, there are 7 million job openings in warehouse and manufacturing positions and only 6 million people available to fill these roles. According to the U.S. Chamber of Commerce “even if every unemployed person with experience in the durable goods manufacturing industry were employed, the industry would fill only around 75% of vacant jobs.” Tech giant Amazon says that it could run out of people to hire by 2024. In short, the U.S. is facing a looming labor shortage, a trend that will only worsen as the baby boomer generation exits the workforce. Enter Figure.ai, an AI robotics company building general purpose humanoid robots to supplement and eliminate repetitive, undesirable and dangerous jobs.
 
-* Name of company
-Figure.ai
+Figure.ai was founded in 2022 by CEO Brett Adcock. Adcock had previously founded and sold hiring platform Vettery (now Hired.com) as well as Archer Aviation, an electric air taxi company that recently went public (2.7B IPO). Emerging AI and robotics technologies combined with the aforementioned labor shortage resulted in the creation of Figure.ai, which Adcock started with his profits from Archer as well as $79 million raised in two rounds of funding in 2023. Figure is seeking to maximize its utility impact on humanity by creating general purpose humanoid robots to first eliminate the need for unsafe and undesirable jobs then provide living assistance and elderly care and eventually perform tasks on other planets.
 
-* When was the company incorporated?
-2022
+As competitors in the field such as Amazon design robots to automate tasks in a specific environment, Figure chooses to focus on humanoid robots powered by AI that will thrive in our current human-optimized environment to have the largest overall impact. AI technologies necessary for the project include multi-camera deep neural networks to locate, track and identify objects around it, similar to self-driving cars, neural net planning to problem solve and optimize movements, and automated data labeling. I would additionally recomend using AI to monitor the condition of the robots to minimize down time as well as using AI to allow the robots to collaborate on tasks to complete them with more efficiency.
 
-* Who are the founders of the company?
-Brett Adcock
+Figure’s team of researchers and roboticists, sourced from high profile companies such as Boston Dynamics, Apple, Google, Tesla and others, just released the [first glimpse](https://www.youtube.com/watch?v=-4erYt2t7Bs) of their prototype Figure 01 taking its first steps. Competitors 1X and Apptronik have also taken their first steps and all three major players are looking to test their products and get them on factory floors in 2024. As a person with over a half decade of warehouse and manufacturing experience, I can personally attest to the high attrition and injury rate of people in the field. Figure.ai is taking us one step closer to the day that people will no longer be antiquated cogs in the economic machine, but rather the harvesters of the fruits of human ambition and inspiration.
 
-* How did the idea for the company (or project) come about?
-Brett Adcock is a man of high moral conviction and big dreams. After tackling the problem of car traffic
-with his publicly traded company Archer Aviation, Adcock turned his attention to an even bigger problem: 
-a shrinking global workforce and rising labor costs. His solution? General purpose humanoid robots that 
-will elimnate the need for unsafe and undesirable jobs.
+Works Cited
 
-* How is the company funded? How much funding have they received?
-The company is funded through rounds of venture capital. They have conducted at least two rounds, receiving 70 and 9 million dollars respectively.
-## Business Activities
+https://www.businessinsider.com/amazon-internal-memo-company-could-run-out-of-workers-2022-6
 
-* What specific problem is the company or project trying to solve?
+https://ourworldindata.org/grapher/labor-share-of-gdp
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+https://www.mfmpod.com/the-next-elon-musk/
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+https://www.youtube.com/watch?v=-4erYt2t7Bs (Figure 01 Dynamic Walking)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+https://www.fastcompany.com/90859010/the-race-to-build-ai-powered-humanoids-is-heating-up
 
-## Landscape
-
-* What field is the company in?
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
-
-## Results
-
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
-
-Sources:
 https://www.crunchbase.com/organization/figure-b5dc
-https://www.archer.com/mission
-https://www.figure.ai/master-plan
+
+https://apptronik.com/press-release
+
+https://www.1x.tech/androids/neo
+
+https://www.youtube.com/watch?v=2RS28Fpp1UM (Elon Musk on Optimus Robot)
+
+
+
+
+
+
+
+
+
